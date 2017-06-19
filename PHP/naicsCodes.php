@@ -1077,6 +1077,7 @@ class naicsCodes
         "424130" => "Industrial and Personal Service Paper Merchant Wholesalers",
         "4242"   => "Drugs and Druggists' Sundries Merchant Wholesalers",
         "42421"  => "Drugs and Druggists' Sundries Merchant Wholesalers",
+        "424210" => "Drugs and Druggists' Sundries Merchant Wholesalers",
         "4243"   => "Apparel, Piece Goods, and Notions Merchant Wholesalers",
         "42431"  => "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
         "424310" => "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",
