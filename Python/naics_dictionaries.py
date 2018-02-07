@@ -2,7 +2,7 @@
 # This file is part of the NAICS Tools project. You can always find the latest
 # version of this class and project at: https://github.com/ionux/naics-tools
 #
-# Copyright (c) 2017 Rich Morgan, rich@richmorgan.me
+# Copyright (c) 2017-2018 Rich Morgan, rich@richmorgan.me
 #
 # The MIT License (MIT)
 #
